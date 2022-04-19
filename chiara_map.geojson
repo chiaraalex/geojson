@@ -75,6 +75,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06149578094482,
+          -12.072643786554512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06552982330321,
+          -12.064712058390576
+        ]
+      }
     }
   ]
 }
